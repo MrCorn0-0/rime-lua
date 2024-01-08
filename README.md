@@ -44,7 +44,7 @@ yuhao_char_only = yuhao_char_filter.yuhao_char_only
 
 ### 新版本 rime-lib
 
-新 Rime 引擎使用模塊化導入,故第二步可以省略,只需將第四步改爲:
+新 Rime 引擎使用模塊化導入,故第二步可以省略,只需將第三步改爲:
 
 ```yaml
 - lua_filter@*yuhao.yuhao_char_first
